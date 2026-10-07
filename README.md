@@ -25,6 +25,7 @@ The installed product is named **Fabre**. Its Swift module and API names remain
 `ScreenReporter` for compatibility with existing integrations.
 
 ```swift
+import UIKit
 import ScreenReporter
 ```
 
